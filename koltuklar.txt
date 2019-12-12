@@ -1,0 +1,7 @@
+PENCERE TARAFI KOLTUKLAR           KORÝDOR TARAFI KOLTUKLARI
+1) K1                              7) K7
+2) K2                              8) K8 
+3) K3                              9) K9
+4) K4                              10) K10
+5) K5                              11) K11
+6) K6                              12) K12 

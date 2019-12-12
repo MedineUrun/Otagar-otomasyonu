@@ -1,0 +1,8 @@
+1:KAHRMANMARAS-ISTANBUL= Gündüz seferleri= 1)09:00 2)13:00    Gece seferleri = 3)19:00 4)23:00
+2:KAHRAMANMARAS-ANKARA=  Gündüz seferleri= 1)08:00 2)14:00    Gece seferleri = 3)19:00 4)22:00
+3:KAHRAMANMARAS-EDIRNE = Gündüz seferleri= 1)10:00 2)13:30    Gece seferleri = 3)19:00 4)00:00
+4:KAHRAMANMARAS-CANAKKALE=Gündüz seferleri= 1)09:00 2)15:00   Gece seferleri = 3)20:00 4)23:30
+5:KAHRAMANMARAS-IZMIR=  Gündüz seferleri= 1)11:00 2)14:30     Gece seferleri = 3)17:00 4)23:30
+6:KAHRAMANMARAS-MUGLA=  Gündüz seferleri= 1)07:00 2)12:00     Gece seferleri = 3)19:00 4)23:00
+7:KAHRAMANMARAS-AYDIN=  Gündüz seferleri= 1)09:00 2)15:00     Gece seferleri = 3)18:00 4)22:00
+8:KAHRAMANMARAS-ADANA=  Gündüz seferleri= 1)08:00 2)14:00     Gece seferleri = 3)17:00 4)23:00
